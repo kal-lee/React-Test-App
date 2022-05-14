@@ -1,0 +1,1027 @@
+{
+    "vouchers": [
+      {
+        "id": 49582,
+        "name": "Monetary Gift Voucher",
+        "description": "<p>Promising unforgettable luxury, a Mount Juliet Estate gift voucher unlocks endless possibilities. Treat a loved one to the promise of an overnight stay, afternoon tea, dinner in the Michelin-starred Lady Helen, an indulgent massage in our Treatment Suites or round of golf on our world class course.</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 50.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 50.00</span>",
+        "discountedPrice": 50.0,
+        "displayPrice": "50.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_dukxyaetdn_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49582",
+        "currency": "EUR",
+        "sequence": 1,
+        "voucherType": "cash-wildcard",
+        "inventory": 8733,
+        "categories": [
+          1910,
+          1977,
+          1979,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49618,
+        "name": "Overnight Dinner Bed and Breakfast in Manor House",
+        "description": "<p>The elegant grandeur of the magnificent Georgian Manor House is the beating heart of the estate. Step through its pillared entrance way and you enter a place out of time: lovingly preserved for the present-day; intimately updated in the most faithful manner.</p> \n<p>The 32 unique bedrooms in Manor House have captivating views of the gardens or River Nore and the paddocks of the Ballylinch Stud, each one is individually designed and named after a famous figure connected with the area or estate.</p> \n<p>Enjoy a night of luxury at Manor House and a memorable breakfast the next morning, for 2 people.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 700.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 700.00</span>",
+        "discountedPrice": 700.0,
+        "displayPrice": "700.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_rr3s98ncgf_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49618",
+        "currency": "EUR",
+        "sequence": 2,
+        "voucherType": "package",
+        "inventory": 9985,
+        "categories": [
+          1912,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49617,
+        "name": "Overnight Dinner Bed and Breakfast in Hunters Yard",
+        "description": "<p>The 93 bedrooms that make up Hunter’s Yard offer a haven-like retreat from the everyday for the whole family; a luxurious habitat for winding down from time spent exploring the estate or playing on the golf course.</p> \n<p>Every room offers the most inviting of modern amenities and furnishings, all wrapped up in a light and airy ambience.</p> \n<p>Join us for one cosy night of luxury at Hunter’s Yard, with an intimate dinner in The Hound restaurant and a memorable breakfast the next morning, for 2 people.&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 500.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 500.00</span>",
+        "discountedPrice": 500.0,
+        "displayPrice": "500.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_ha6hnvxbkz_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49617",
+        "currency": "EUR",
+        "sequence": 3,
+        "voucherType": "package",
+        "inventory": 9931,
+        "categories": [
+          1912,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49905,
+        "name": "5 One Hour Trackman Golf Lessons at the Academy",
+        "description": "<p>The golf course at&nbsp;Mount Juliet Estate is set across 180 acres of rolling&nbsp;Irish countryside.<br />Magnificent&nbsp;ancient&nbsp;trees, miles of rushing rivers and verdant pastures all play their part, bringing&nbsp;sensational natural beauty to a course that is&nbsp;ranked among the world’s finest parkland courses.</p> \n<p>This voucher entitles the bearer to&nbsp;5 One Hour Golf Lessons with one of our PGA Professionals at the Academy at Mount Juliet Estate.</p> \n<p>Lessons are available 7 days a week. You will get to experience the very best in coaching and facilities.&nbsp;</p> \n<p>&nbsp;</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 340.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 340.00</span>",
+        "discountedPrice": 340.0,
+        "displayPrice": "340.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_3o749crd25_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49905",
+        "currency": "EUR",
+        "sequence": 4,
+        "voucherType": "package",
+        "inventory": 9996,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49613,
+        "name": "One Round of Golf at Mount Juliet Estate - All Year",
+        "description": "<p>To play golf at Mount Juliet is to experience up to&nbsp;7,200 yards of visionary, a Jack Nicklaus Signature&nbsp;Designed Parkland, set across 180 acres of rolling&nbsp;Irish countryside.<br />Magnificent specimen trees, miles of rushing river&nbsp;and verdant pastures all play their part, bringing&nbsp;sensational natural beauty to a course that is&nbsp;ranked among the world’s finest parkland courses&nbsp;and has played host to numerous unforgettable&nbsp;tournaments.</p> \n<p>This voucher entitles the bearer to one round of golf at Mount Juliet Estate.&nbsp; Valid all year.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 160.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 160.00</span>",
+        "discountedPrice": 160.0,
+        "displayPrice": "160.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_7ji1mcr8ho_o.jpg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49613",
+        "currency": "EUR",
+        "sequence": 5,
+        "voucherType": "package",
+        "inventory": 9931,
+        "categories": [
+          
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49614,
+        "name": "The Lady Helen Restaurant's Signature Tasting Menu for Two",
+        "description": "<p>Take a seat in the Michelin-starred Lady Helen dining room of The Manor House, and the first thing you take in will likely be its stunning pastoral views. It is a fitting setting of the scene, given that many of the dishes are made using the highest-quality produce, sourced from the estate and the nearby farms that stretch out just beyond the running river and rolling pastures that lie beyond the windows.</p> \n<p>These carefully and seasonally chosen ingredients provides the starting point for a culinary experience that could only be created through the visionary lens of Executive Head Chef, John Kelly. As John says, “if you’re able to work with the best and freshest produce, then you’re able to bring the best flavours to the fore. By sourcing so locally, I’m able to personally oversee every order and ensure that every ingredient that makes its way to our diners is up to our exacting standards.”</p> \n<p>Our Chefs 7-course Tasting Menu has been designed to highlight local produce &amp; signature dishes in the Michelin Star / 4 AA Rosettes Lady Helen Restaurant.</p> \n<p>&nbsp;</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 250.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 250.00</span>",
+        "discountedPrice": 250.0,
+        "displayPrice": "250.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_0uh791kh14_o.jpg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49614",
+        "currency": "EUR",
+        "sequence": 6,
+        "voucherType": "package",
+        "inventory": 9932,
+        "categories": [
+          1909,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49758,
+        "name": "3 Course Dining experience at Michelin starred Lady Helen in Manor House",
+        "description": "<p>Enjoy a luxurious 3 course dinner for two in The Lady Helen.</p> \n<p>The Lady Helen restaurant is a reassuringly timeless and elegant dining room that&nbsp;encompasses the cherished traditions of dining at Mount Juliet Estate.</p> \n<p>Every dish on the menu is part of an evocative event that will transport you to a truly timeless place; part of an unforgettable fine-dining experience that could only be enjoyed in The Lady Helen.</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 198.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 198.00</span>",
+        "discountedPrice": 198.0,
+        "displayPrice": "198.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_49wj4itx94_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49758",
+        "currency": "EUR",
+        "sequence": 7,
+        "voucherType": "package",
+        "inventory": 9962,
+        "categories": [
+          1909,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49906,
+        "name": "The Grounding Full Body Massage",
+        "description": "<p>A restorative massage treatment to soothe and comfort the full body using slow and rhythmical techniques, this treatment helps to alleviate muscular tension while having a mediative, deeply relaxing effect. The potent essential oils will help set your intention to ground and connect to self while restoring balance in the body.</p> \n<p>Mount Juliet Estate's treatments offer a luxurious and holistic approach to wellness and relaxation. Our treatment rooms are located in Hunter’s Yard and are all designed to help you enjoy your time with us in the most relaxing and rejuvenating manner.</p> \n<p>The Grounding Full Body Massage will take 55 minutes.&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 98.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 98.00</span>",
+        "discountedPrice": 98.0,
+        "displayPrice": "98.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_48kkk8ew95_o.png",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49906",
+        "currency": "EUR",
+        "sequence": 8,
+        "voucherType": "package",
+        "inventory": 9959,
+        "categories": [
+          1911,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49736,
+        "name": "Champagne Afternoon Tea at Mount Juliet House - for 2",
+        "description": "<p>Champagne Afternoon Tea at Mount Juliet Estate is something so sumptuous, it deserves to be savoured in the most fitting of surroundings. We aim to offer exactly that in the elegant and historic surroundings of The Major’s Bar and – if weather permits – the tranquil surrounds of the Manor House gardens. In each picturesque setting, we serve up a delicately delicious menu of finger sandwiches, homemade scones, jams, macarons, cakes and a bubbling glass of champagne.</p> \n<p>Afternoon Tea is the ideal way to relax with a group of friends or to a celebrate special occasion.</p> \n<p>Afternoon Tea is available between 1 pm and 5 pm every day.</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 120.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 120.00</span>",
+        "discountedPrice": 120.0,
+        "displayPrice": "120.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_9jx4h2da3b_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49736",
+        "currency": "EUR",
+        "sequence": 9,
+        "voucherType": "package",
+        "inventory": 9959,
+        "categories": [
+          1908,
+          1909,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49737,
+        "name": "Champagne Afternoon Tea at Mount Juliet House - for 3",
+        "description": "<p>Afternoon Tea on the estate: something so sumptuous, it deserves to be savoured in the most fitting of surroundings. We aim to offer exactly that at The Major’s Bar and – if weather permits – the tranquil surrounds of the Manor House gardens. In each picturesque setting, we serve up a delicately delicious menu of finger sandwiches, homemade scones, jams, macarons, cakes and a glass of champagne.<br />For 3 adults</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 180.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 180.00</span>",
+        "discountedPrice": 180.0,
+        "displayPrice": "180.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_sqjp5mvfvb_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49737",
+        "currency": "EUR",
+        "sequence": 10,
+        "voucherType": "package",
+        "inventory": 9992,
+        "categories": [
+          1908,
+          1909
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49738,
+        "name": "Champagne Afternoon Tea at Mount Juliet House - for 4",
+        "description": "<p>Afternoon Tea on the estate: something so sumptuous, it deserves to be savoured in the most fitting of surroundings. We aim to offer exactly that at The Major’s Bar and – if weather permits – the tranquil surrounds of the Manor House gardens. In each picturesque setting, we serve up a delicately delicious menu of finger sandwiches, homemade scones, jams, macarons, cakes and a glass of champagne.<br />For 4 adults</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 240.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 240.00</span>",
+        "discountedPrice": 240.0,
+        "displayPrice": "240.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_sqjp5mvfvb_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49738",
+        "currency": "EUR",
+        "sequence": 11,
+        "voucherType": "package",
+        "inventory": 9998,
+        "categories": [
+          1908,
+          1909
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49961,
+        "name": "9 Hole Playing Lesson",
+        "description": "<p>Enjoy 9 Holes of Golf under the watchful eye of one of our PGA Professionals at the Academy at Mount Juliet Estate.</p> \n<p>The golf course at&nbsp;Mount Juliet Estate is set across 180 acres of rolling&nbsp;Irish countryside.<br />Magnificent&nbsp;ancient&nbsp;trees, miles of rushing rivers and verdant pastures all play their part, bringing&nbsp;sensational natural beauty to a course that is&nbsp;ranked among the world’s finest parkland courses.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 225.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 225.00</span>",
+        "discountedPrice": 225.0,
+        "displayPrice": "225.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_1ekc8vsyxz_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49961",
+        "currency": "EUR",
+        "sequence": 12,
+        "voucherType": "package",
+        "inventory": 9980,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49739,
+        "name": "Major's traditional afternoon tea - for 2 ",
+        "description": "<p>Afternoon Tea at Mount Juliet Estate is something so sumptuous, it deserves to be savoured in the most fitting of surroundings. We aim to offer exactly that in the elegant and historic surroundings of The Major’s Bar and – if weather permits – the tranquil surrounds of the Manor House gardens. In each picturesque setting, we serve up a delicately delicious menu of finger sandwiches, homemade scones, jams, macarons, cakes and signature beverages. Complemented by our selection of teas and speciality coffees all served in&nbsp;the finest&nbsp;china.&nbsp;</p> \n<p>Afternoon Tea is the ideal way to relax with a group of friends&nbsp;or celebrate a special occasion.</p> \n<p>Afternoon Tea is available between 1 pm and 5 pm every day.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 90.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 90.00</span>",
+        "discountedPrice": 90.0,
+        "displayPrice": "90.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_hjf9jj8ef5_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49739",
+        "currency": "EUR",
+        "sequence": 13,
+        "voucherType": "package",
+        "inventory": 9853,
+        "categories": [
+          1908
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49741,
+        "name": "Major's traditional afternoon tea - for 3",
+        "description": "<p>Afternoon Tea on the estate: something so sumptuous, it deserves to be savoured in the most fitting of surroundings. We aim to offer exactly that at The Major’s Bar and – if weather permits – the tranquil surrounds of the Manor House gardens. In each picturesque setting, we serve up a delicately delicious menu of finger sandwiches, homemade scones, jams, macarons, cakes and signature beverages.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 135.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 135.00</span>",
+        "discountedPrice": 135.0,
+        "displayPrice": "135.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_hjf9jj8ef5_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49741",
+        "currency": "EUR",
+        "sequence": 14,
+        "voucherType": "package",
+        "inventory": 9982,
+        "categories": [
+          1908
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49742,
+        "name": "Major's traditional afternoon tea - for 4",
+        "description": "<p>Afternoon Tea on the estate: something so sumptuous, it deserves to be savoured in the most fitting of surroundings. We aim to offer exactly that at The Major’s Bar and – if weather permits – the tranquil surrounds of the Manor House gardens. In each picturesque setting, we serve up a delicately delicious menu of finger sandwiches, homemade scones, jams, macarons, cakes and signature beverages.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 180.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 180.00</span>",
+        "discountedPrice": 180.0,
+        "displayPrice": "180.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_hjf9jj8ef5_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49742",
+        "currency": "EUR",
+        "sequence": 15,
+        "voucherType": "package",
+        "inventory": 9990,
+        "categories": [
+          1908
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49759,
+        "name": "Back, neck and shoulder massage",
+        "description": "<p>This is the one we all want after a hard day, a massage that reduces stress-related tension and discomfort in the neck, shoulders and back.</p> \n<p>Mount Juliet Estate's treatments offer a luxurious and holistic approach to wellness and relaxation. Our treatment rooms are located in Hunter’s Yard and are all designed to help you enjoy your time with us in the most relaxing and rejuvenating manner.</p> \n<p>This treatment will take 25 minutes.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 58.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 58.00</span>",
+        "discountedPrice": 58.0,
+        "displayPrice": "58.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_bop0f9j1rj_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49759",
+        "currency": "EUR",
+        "sequence": 16,
+        "voucherType": "package",
+        "inventory": 9963,
+        "categories": [
+          1911,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49764,
+        "name": "Round of Golf",
+        "description": "<p>Treat someone special to a round of Golf at Mount Juliet Estate.<br />This voucher entitles the bearer to one round of golf on the Jack Nicklaus Signature Course at Mount Juliet Estate.&nbsp; Valid Monday to Friday from November to March.&nbsp; A supplement may apply outside of this time range.<br />One Round – Midweek – Low Season</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 60.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 60.00</span>",
+        "discountedPrice": 60.0,
+        "displayPrice": "60.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_wtxt86pm00_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49764",
+        "currency": "EUR",
+        "sequence": 17,
+        "voucherType": "package",
+        "inventory": 9804,
+        "categories": [
+          1910,
+          2177
+        ],
+        "variants": [
+          {
+            "id": 49764,
+            "name": "Round of Golf",
+            "price": "60.00",
+            "position": 17
+          },
+          {
+            "id": 49897,
+            "name": "Round of Golf",
+            "price": "75.00",
+            "position": 17
+          },
+          {
+            "id": 49898,
+            "name": "Round of Golf",
+            "price": "125.00",
+            "position": 17
+          },
+          {
+            "id": 49899,
+            "name": "Round of Golf",
+            "price": "160.00",
+            "position": 17
+          }
+        ]
+      },
+      {
+        "id": 49907,
+        "name": "The Grounding Ritual",
+        "description": "<p>Sacred time for your to allow healing in. This treatment will provide you with the space and time to reconnect to source, tap into your body's ability to self-repair and re-align and will leave you feeling replenished and grounded in your body. Focused on the back of the body and specifically centred on the areas that are prone to tightness and tension. Feel your body and soul come together again.</p> \n<p>Mount Juliet Estate's treatments offer a luxurious and holistic approach to wellness and relaxation. Our treatment rooms are located in Hunter’s Yard and are all designed to help you enjoy your time with us in the most relaxing and rejuvenating manner.</p> \n<p>The Grounding Ritual will take 55 minutes.&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 98.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 98.00</span>",
+        "discountedPrice": 98.0,
+        "displayPrice": "98.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_5trdg5hwvn_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49907",
+        "currency": "EUR",
+        "sequence": 18,
+        "voucherType": "package",
+        "inventory": 9993,
+        "categories": [
+          1911,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49904,
+        "name": "One Hour Trackman Golf Lesson at the Academy",
+        "description": "<p>This voucher entitles the bearer to a One Hour Trackman Golf Lesson with one of our PGA Professionals at the Academy at Mount Juliet Estate.</p> \n<p>Trackmsn 4e is a state of the art technology that measures all clubhead data to provide scientific analysis for the ultimate in game improvement.</p> Lessons are available 7 days a week. You will get to experience the very best in coaching and facilities. \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 85.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 85.00</span>",
+        "discountedPrice": 85.0,
+        "displayPrice": "85.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_djafsiht5g_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49904",
+        "currency": "EUR",
+        "sequence": 19,
+        "voucherType": "package",
+        "inventory": 9944,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49900,
+        "name": "Half Hour Golf Lesson at the Academy",
+        "description": "<p>This voucher entitles the bearer to a &frac12; Hour Golf Lesson with one of our PGA Professionals at the Academy at Mount Juliet Estate.</p> \n<p>At the academy we aim to capture the excitement, passion and enjoyment of the game, channelling it into expert coaches that help seasoned golfers improve in ways they never thought possible and transforms absolute beginners into enthusiastic players. We do this by combining the very best coaching philosophies with technologies such as Trackman, which maps the DNA of your swing and is used by professional golfers worldwide.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 50.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 50.00</span>",
+        "discountedPrice": 50.0,
+        "displayPrice": "50.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_u9dzio066b_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49900",
+        "currency": "EUR",
+        "sequence": 20,
+        "voucherType": "package",
+        "inventory": 9996,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49611,
+        "name": "The Classic Full Body Massage- 55 Minutes",
+        "description": "<p>The Classic Full Body Massage is a Swedish style massage that we tailor to your specific preferences or needs. Using rhythmic strokes and kneading techniques, our therapists alleviate general stress and restore overall harmony, while addressing any particular issues you may have.</p> \n<p>Our treatment rooms are located in Hunter’s Yard and are all&nbsp;designed to help you enjoy your time with us in the most relaxing and rejuvenating manner.</p> \n<p><br /><br /></p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 95.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 95.00</span>",
+        "discountedPrice": 95.0,
+        "displayPrice": "95.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_9joihsq1p4_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49611",
+        "currency": "EUR",
+        "sequence": 21,
+        "voucherType": "package",
+        "inventory": 9970,
+        "categories": [
+          1911,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49616,
+        "name": "Fourball - Low Season - All Week",
+        "description": "<p>The perfect gift for four people to enjoy a captivating round of golf on the Jack Nicklaus Signature Designed Parkland course, set across 180 acres of rolling Irish countryside. Magnificent specimen trees, miles of rushing river and verdant pastures all play their part, bringing sensational natural beauty to a course that is ranked among the world’s finest parkland courses and has played host to numerous unforgettable tournaments including the 2021 Dubai Duty Free Irish Open.&nbsp;</p> \n<p>This voucher is valid&nbsp;from November to March.&nbsp;</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 300.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 300.00</span>",
+        "discountedPrice": 300.0,
+        "displayPrice": "300.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_03q4whvnh2_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49616",
+        "currency": "EUR",
+        "sequence": 22,
+        "voucherType": "package",
+        "inventory": 9976,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49951,
+        "name": "Fourball - High Season - All Week",
+        "description": "<p>The perfect gift for four people to enjoy a captivating round of golf on the&nbsp;Jack Nicklaus Signature Designed Parkland course, set across 180 acres of rolling Irish countryside. Magnificent specimen trees, miles of rushing river and verdant pastures all play their part, bringing sensational natural beauty to a course that is ranked among the world’s finest parkland courses and has played host to numerous unforgettable tournaments including the&nbsp;2021 Dubai Duty Free Irish Open.&nbsp;</p> \n<p>&nbsp;</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 640.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 640.00</span>",
+        "discountedPrice": 640.0,
+        "displayPrice": "640.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_03q4whvnh2_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49951",
+        "currency": "EUR",
+        "sequence": 23,
+        "voucherType": "package",
+        "inventory": 9995,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49952,
+        "name": "Fourball - High Season - Mid Week",
+        "description": "<p>The perfect gift for four people to enjoy a captivating round of golf on the&nbsp;Jack Nicklaus Signature Designed Parkland course, set across 180 acres of rolling Irish countryside. Magnificent specimen trees, miles of rushing river and verdant pastures all play their part, bringing sensational natural beauty to a course that is ranked among the world’s finest parkland courses and has played host to numerous unforgettable tournaments including the&nbsp;2021 Dubai Duty Free Irish Open.&nbsp;</p> \n<p>&nbsp;This&nbsp;voucher is valid&nbsp;mid-week Monday to Friday.&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 500.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 500.00</span>",
+        "discountedPrice": 500.0,
+        "displayPrice": "500.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_03q4whvnh2_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49952",
+        "currency": "EUR",
+        "sequence": 24,
+        "voucherType": "package",
+        "inventory": 9990,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49953,
+        "name": "Fourball - Low Season - Mid Week",
+        "description": "<p>The perfect gift for four people to enjoy a captivating round of golf on the&nbsp;Jack Nicklaus Signature Designed Parkland course, set across 180 acres of rolling Irish countryside. Magnificent specimen trees, miles of rushing river and verdant pastures all play their part, bringing sensational natural beauty to a course that is ranked among the world’s finest parkland courses and has played host to numerous unforgettable tournaments including the&nbsp;2021 Dubai Duty Free Irish Open.&nbsp;</p> \n<p>This voucher is valid&nbsp;Monday to Friday from November to March.&nbsp;</p> \n<p>&nbsp;</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 240.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 240.00</span>",
+        "discountedPrice": 240.0,
+        "displayPrice": "240.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_03q4whvnh2_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49953",
+        "currency": "EUR",
+        "sequence": 25,
+        "voucherType": "package",
+        "inventory": 9995,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49761,
+        "name": "Ache away hot stone treatment",
+        "description": "<p>The warmth of hot stone massage treats the muscles, relieving tension in the back, neck and shoulders.&nbsp;But first, a thorough exfoliation rouses the pores and nerve endings.&nbsp;The treatment finishes with a soothing mask to the back, followed by a scalp massage.</p> \n<p>Mount Juliet Estate's treatments offer a luxurious and holistic approach to wellness and relaxation. Our treatment rooms are located in Hunter’s Yard and are all designed to help you enjoy your time with us in the most relaxing and rejuvenating manner.</p> \n<p>This treatment will take 55 minutes.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 95.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 95.00</span>",
+        "discountedPrice": 95.0,
+        "displayPrice": "95.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_uipyjh540b_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49761",
+        "currency": "EUR",
+        "sequence": 26,
+        "voucherType": "package",
+        "inventory": 9981,
+        "categories": [
+          1911,
+          2177
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49762,
+        "name": "Evening fishing experience at Mount Juliet Estate",
+        "description": "<p>Even the most eye-catching countryside can be elevated by stretches of open water, running free as it cuts a path through pastures and woodland alike. At Mount Juliet Estate, we are particularly blessed in this respect, with not one but two significant rivers within its walls: the famous River Nore and its tributary, the King’s River. Both rivers have supplied the tables of Mount Juliet Estate, and other great houses of the area, with plentiful catches of salmon and wild brown trout, through the years. Today, its twelve named pools offer our guests some of the finest fishing in Ireland, with record catches to be had during the season.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 50.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 50.00</span>",
+        "discountedPrice": 50.0,
+        "displayPrice": "50.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_5q85k2s4c4_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49762",
+        "currency": "EUR",
+        "sequence": 27,
+        "voucherType": "package",
+        "inventory": 9992,
+        "categories": [
+          1913
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49909,
+        "name": "Golfers Tonic",
+        "description": "<p>This will do more good than any tonic available at the 19th hole! It's a deep massage, in which the therapist focuses on areas that are causing you concern or discomfort. It helps to relax tense muscles and relieve stiffness and fatigue, putting you back in great playing form.</p> \n<p>25 Mins</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 58.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 58.00</span>",
+        "discountedPrice": 58.0,
+        "displayPrice": "58.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_8br3yjryfu_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49909",
+        "currency": "EUR",
+        "sequence": 28,
+        "voucherType": "package",
+        "inventory": 9997,
+        "categories": [
+          1911
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49743,
+        "name": "Childrens' afternoon tea for 1",
+        "description": "<p>In the gorgeous setting of the Manor House, enjoy Children's Afternoon Tea that includes toasted brioche &amp; Nutella, ham &amp; cheese finger sandwiches and a cream cheese bagel. The sweet treats are rocky road, chocolate marshmallows, cupcakes, biscuits and a mini Knickerbocker glory with a vanilla milkshake. This voucher entitles you to Childrens Afternoon Tea for one child.<br />Available in the Manor House daily from 1pm to 5pm, with pre-booking essential.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 25.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 25.00</span>",
+        "discountedPrice": 25.0,
+        "displayPrice": "25.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_24b93xxrsr_o.png",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49743",
+        "currency": "EUR",
+        "sequence": 29,
+        "voucherType": "package",
+        "inventory": 9994,
+        "categories": [
+          1908,
+          1909
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49744,
+        "name": "Childrens' afternoon tea for 2",
+        "description": "<p>In the gorgeous setting of the Manor House, enjoy Children's Afternoon Tea that includes toasted brioche &amp; Nutella, ham &amp; cheese finger sandwiches and a cream cheese bagel. The sweet treats are rocky road, chocolate marshmallows, cupcakes, biscuits and a mini Knickerbocker glory with a vanilla milkshake. This voucher entitles you to Childrens Afternoon Tea for one child.<br />Available in the Manor House daily from 1pm to 5pm, with pre-booking essential.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 50.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 50.00</span>",
+        "discountedPrice": 50.0,
+        "displayPrice": "50.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_24b93xxrsr_o.png",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49744",
+        "currency": "EUR",
+        "sequence": 30,
+        "voucherType": "package",
+        "inventory": 9995,
+        "categories": [
+          1908,
+          1909
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49745,
+        "name": "Childrens' afternoon tea for 3",
+        "description": "<p>In the gorgeous setting of the Manor House, enjoy Children's Afternoon Tea that includes toasted brioche &amp; Nutella, ham &amp; cheese finger sandwiches and a cream cheese bagel. The sweet treats are rocky road, chocolate marshmallows, cupcakes, biscuits and a mini Knickerbocker glory with a vanilla milkshake. This voucher entitles you to Childrens Afternoon Tea for one child.<br />Available in the Manor House daily from 1pm to 5pm, with pre-booking essential.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 75.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 75.00</span>",
+        "discountedPrice": 75.0,
+        "displayPrice": "75.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_24b93xxrsr_o.png",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49745",
+        "currency": "EUR",
+        "sequence": 31,
+        "voucherType": "package",
+        "inventory": 9998,
+        "categories": [
+          1908,
+          1909
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49746,
+        "name": "Childrens' afternoon tea for 4",
+        "description": "<p>In the gorgeous setting of the Manor House, enjoy Children's Afternoon Tea that includes toasted brioche &amp; Nutella, ham &amp; cheese finger sandwiches and a cream cheese bagel. The sweet treats are rocky road, chocolate marshmallows, cupcakes, biscuits and a mini Knickerbocker glory with a vanilla milkshake. This voucher entitles you to Childrens Afternoon Tea for one child.<br />Available in the Manor House daily from 1pm to 5pm, with pre-booking essential.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 100.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 100.00</span>",
+        "discountedPrice": 100.0,
+        "displayPrice": "100.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_24b93xxrsr_o.png",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49746",
+        "currency": "EUR",
+        "sequence": 32,
+        "voucherType": "package",
+        "inventory": 9997,
+        "categories": [
+          1908,
+          1909
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 49615,
+        "name": "Archery Session - Family",
+        "description": "<p>From budding little Robin Hoods to championship level bowmen, we welcome archers of all ages and abilities to practice this ancient art amidst the evocative, picturesque surroundings of Mount Juliet.</p> \n<p>An hour and a half Archery session for one family. (Family-based on two adults and two children)</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 100.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 100.00</span>",
+        "discountedPrice": 100.0,
+        "displayPrice": "100.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_os8qzdf322_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/49615",
+        "currency": "EUR",
+        "sequence": 33,
+        "voucherType": "package",
+        "inventory": 9999,
+        "categories": [
+          1913
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 50752,
+        "name": "3 x One Hour Lesson with PGA Professionals",
+        "description": "<p>This voucher entitles the bearer to three One Hour Lesson with one of our PGA Professionals at the Academy at Mount Juliet Estate.</p> \n<p>With a complimentary Ball Fitting or Gapping Session at the end of your final lesson.&nbsp;</p> \n<p>&nbsp;Lessons are available 7 days a week. You will get to experience the very best in coaching and facilities.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 200.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 200.00</span>",
+        "discountedPrice": 200.0,
+        "displayPrice": "200.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_icc9zop5hy_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/50752",
+        "currency": "EUR",
+        "sequence": 34,
+        "voucherType": "package",
+        "inventory": 9989,
+        "categories": [
+          1910
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 50513,
+        "name": "Health Club Membership",
+        "description": "<p>This voucher entitles the bearer to one year Health Club Membership, including access to the Gym, the 15 meter swimming pool, our Cevana tennis court and fitness classes. Health Club Membership also includes special discount rate across the estate.</p> \n<p><a href=\"https://www.mountjuliet.ie/wellness/health-club-membership/\" rel=\"nofollow\">Find out more here</a>.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 650.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 650.00</span>",
+        "discountedPrice": 650.0,
+        "displayPrice": "650.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_z9nnkgays0_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/50513",
+        "currency": "EUR",
+        "sequence": 35,
+        "voucherType": "package",
+        "inventory": 9999,
+        "categories": [
+          
+        ],
+        "variants": [
+          
+        ]
+      },
+      {
+        "id": 50514,
+        "name": "Personal Training in the Health Club",
+        "description": "<p>This voucher entitles the bearer to ten 45-minute personalised training sessions.&nbsp;Whether you’re looking to improve your endurance, strength or all round fitness our team&nbsp; will work with you to create a personal plan based on your goals.</p>",
+        "hotelName": "Mount Juliet Estate",
+        "price": 300.0,
+        "displayDiscountedPrice": "<span class=normal-price>EUR 300.00</span>",
+        "discountedPrice": 300.0,
+        "displayPrice": "300.00",
+        "voucherImageUrl": "https://in1-image-library.imgix.net/474/474_joetj014rd_o.jpeg",
+        "voucherUrl": "https://giftvouchers.mountjuliet.ie/property/mjcvie/vouchers/list/item/50514",
+        "currency": "EUR",
+        "sequence": 36,
+        "voucherType": "package",
+        "inventory": 9999,
+        "categories": [
+          
+        ],
+        "variants": [
+          
+        ]
+      }
+    ],
+    "categories": {
+      "1908": "Afternoon Tea",
+      "1909": "Dining",
+      "1910": "Golf",
+      "1911": "Treatment Suites",
+      "1912": "Overnight Stays",
+      "1913": "Estate Activities",
+      "1977": "Cash Gift Vouchers",
+      "1979": "Featured Vouchers",
+      "2177": "Valentines"
+    },
+    "categoriesDetails": [
+      {
+        "id": 1908,
+        "hotelId": 474,
+        "name": "Afternoon Tea",
+        "names": {
+          "en": "Afternoon Tea"
+        },
+        "friendlyName": "afternoontea",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          49739,
+          49741,
+          49742,
+          49736,
+          49737,
+          49738,
+          49743,
+          49744,
+          49745,
+          49746
+        ]
+      },
+      {
+        "id": 1909,
+        "hotelId": 474,
+        "name": "Dining",
+        "names": {
+          "en": "Dining"
+        },
+        "friendlyName": "dining",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          49614,
+          49758,
+          49736,
+          49737,
+          49746,
+          49738,
+          49743,
+          49744,
+          49745
+        ]
+      },
+      {
+        "id": 1910,
+        "hotelId": 474,
+        "name": "Golf",
+        "names": {
+          "en": "Golf"
+        },
+        "friendlyName": "golf",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          50752,
+          49582,
+          49905,
+          49951,
+          49952,
+          49616,
+          49953,
+          49961,
+          49764,
+          49900,
+          49902,
+          49904
+        ]
+      },
+      {
+        "id": 1911,
+        "hotelId": 474,
+        "name": "Treatment Suites",
+        "names": {
+          "en": "Treatment Suites"
+        },
+        "friendlyName": "treatment-suites",
+        "colour": "",
+        "imageUrl": "//dddo4e1h8fdy4.cloudfront.net/474/474_8br3yjryfu_o.jpeg",
+        "sequence": 0,
+        "voucherIds": [
+          49907,
+          49906,
+          49761,
+          49759,
+          49611,
+          49909
+        ]
+      },
+      {
+        "id": 1912,
+        "hotelId": 474,
+        "name": "Overnight Stays",
+        "names": {
+          "en": "Overnight Stays"
+        },
+        "friendlyName": "overnight-stays",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          49617,
+          49618
+        ]
+      },
+      {
+        "id": 1913,
+        "hotelId": 474,
+        "name": "Estate Activities",
+        "names": {
+          "en": "Estate Activities"
+        },
+        "friendlyName": "estate-activities",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          49615,
+          49762
+        ]
+      },
+      {
+        "id": 1977,
+        "hotelId": 474,
+        "name": "Cash Gift Vouchers",
+        "names": {
+          "en": "Cash Gift Vouchers"
+        },
+        "friendlyName": "cash",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          49582
+        ]
+      },
+      {
+        "id": 1979,
+        "hotelId": 474,
+        "name": "Featured Vouchers",
+        "names": {
+          "en": "Featured Vouchers"
+        },
+        "friendlyName": "featured",
+        "colour": "",
+        "sequence": 0,
+        "voucherIds": [
+          49582
+        ]
+      },
+      {
+        "id": 2177,
+        "hotelId": 474,
+        "name": "Valentines",
+        "names": {
+          "en": "Valentines"
+        },
+        "friendlyName": "valentines",
+        "colour": "",
+        "imageUrl": "//dddo4e1h8fdy4.cloudfront.net/474/474_55e8ezorh1_o.jpeg",
+        "sequence": 0,
+        "voucherIds": [
+          49618,
+          49614,
+          49617,
+          49736,
+          49582,
+          49907,
+          49758,
+          49761,
+          49764,
+          49906,
+          49611,
+          49759
+        ]
+      }
+    ]
+  }
